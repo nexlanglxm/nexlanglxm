@@ -31,9 +31,9 @@ This project focuses on exploring and analysing the well-known Iris flower datas
 ## Contact Me
 - **Email**: neiljanglim@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/neil-anglim/)**
-  
+<!--  
 Thanking you for taking the time to come this far. I am currently working as a Junior Application Analyst, but I am alway open to collaboration to bolster my skills and further improve this space!
-<!--
+
 **nexlanglxm/nexlanglxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
