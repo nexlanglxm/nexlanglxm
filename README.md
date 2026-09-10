@@ -27,6 +27,7 @@ This project focuses on exploring and analysing the well-known Iris flower datas
 
 ## Education
 - Higher Diploma in Science in Computing in Data Analytics, Atlantic Technological University, 2024. 1st Class Honours.
+- Professional Diploma in Practical AI for Software Developers, University of Galway, 2026, Ongoing. 
 
 ## Contact Me
 - **Email**: neiljanglim@gmail.com
